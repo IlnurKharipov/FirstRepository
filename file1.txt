@@ -3,4 +3,8 @@ Changed status.
 new changed
 12345
 Haard
+<<<<<<< HEAD
 Line from user 1
+=======
+line from user 2
+>>>>>>> f982577a202a05f1aaf2d50eb549e13582e6d1af
