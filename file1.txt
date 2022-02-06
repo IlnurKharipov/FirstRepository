@@ -4,5 +4,3 @@ new changed
 12345
 Haard
 New line from user 2
-
-
